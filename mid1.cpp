@@ -1,5 +1,8 @@
 //cmps335 exam 1 framework
 //Write a unit test to check the validity of the milesToKm function. 
+//@name: Jacob French
+//CS335
+//Mid-term 1
 #include <iostream>
 #include <cstdlib>
 using namespace std;
